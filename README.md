@@ -8,6 +8,10 @@ Black and White theme
 ![](img/dots-white.png)
 ![](img/windows-white-edit.png)
 
-# Install
+# Installation
 
-Unzip or clone into your /home/user/.themes/ folder.
+* Clone the repo to your *home* directory `git clone https://github.com/rafacuevas3/dots-theme.git`
+* Move your favourite themes to *~/.themes/* folder `sudo mv ~/dots-theme/* ~/.themes/ && rm -rf ~/dots-theme` and enter the password
+* And go to **Window Manager** in **Settings** and select the *Theme* and Enjoy
+
+![](img/window-manager.png)
