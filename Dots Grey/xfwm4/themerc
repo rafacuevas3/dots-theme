@@ -1,11 +1,9 @@
 # Name: Dots Grey
-# Author: jmoniatte
+# Author: rafacuevas3
 # License: GPL-3.0+
 
 active_text_color=#DDDDDD
 inactive_text_color=#888888
-#active_text_color=#EDEDED
-#inactive_text_color=#B3BAC6
 button_offset=5
 button_spacing=2
 show_app_icon=false
